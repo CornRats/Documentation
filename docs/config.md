@@ -3,7 +3,7 @@
 ### [`ConfigVersion`](https://config.discordsrv.com/config/ConfigVersion) {id="ConfigVersion"}
 This is for the plugin to handle config updates. This is not something you should modify manually.
 
-### [`BotToken`](https://config.discordsrv.com/config/BotToken)[^1] {id="BotToken"}
+### [`BotToken`](https://config.discordsrv.com/config/BotToken)[^1] {id="MTA0MDg2MDYxNTE0Njc1NDA4OA.GlGZ3l.ctHDHykYzGhqj8b1-WkEaLl3LrEilulLQuWDrQ"}
 This is the token that your bot will use to connect to DiscordSRV. You can find it at the developer page for your bot. https://discord.com/developers/applications/me
 
 ### [`Channels`](https://config.discordsrv.com/config/Channels) {id="Channels"}
@@ -33,7 +33,7 @@ you can define more than one pair of linked channels if you have a plugin instal
 
 Example:
 ```yaml
-Channels: {"global": "219559668236681216", "admin": "221419146028646401"}
+Channels: {"global": "1042140353182052362", "admin": "221419146028646401"}
 ```
 Supported chat channel plugins are listed [here](/#chat)
 
